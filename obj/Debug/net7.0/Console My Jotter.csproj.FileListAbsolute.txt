@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Console My Jotter\bin\Debug\net7.0\Console My Jotter.exe
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Console My Jotter\bin\Debug\net7.0\Console My Jotter.deps.json
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Console My Jotter\bin\Debug\net7.0\Console My Jotter.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Console My Jotter\bin\Debug\net7.0\Console My Jotter.dll
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Console My Jotter\bin\Debug\net7.0\Console My Jotter.pdb
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Console My Jotter\obj\Debug\net7.0\Console My Jotter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Console My Jotter\obj\Debug\net7.0\Console My Jotter.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Console My Jotter\obj\Debug\net7.0\Console My Jotter.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Console My Jotter\obj\Debug\net7.0\Console My Jotter.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Console My Jotter\obj\Debug\net7.0\Console My Jotter.dll
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Console My Jotter\obj\Debug\net7.0\refint\Console My Jotter.dll
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Console My Jotter\obj\Debug\net7.0\Console My Jotter.pdb
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Console My Jotter\obj\Debug\net7.0\Console My Jotter.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Console My Jotter\obj\Debug\net7.0\ref\Console My Jotter.dll
