@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\OneDrive\\Desktop\\CSharpeproject\\Console My Jotter\\Console My Jotter.csproj": {}
+    "C:\\Users\\USER\\OneDrive\\Desktop\\CSharpeproject\\MySchoolApp\\Console My Jotter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\OneDrive\\Desktop\\CSharpeproject\\Console My Jotter\\Console My Jotter.csproj": {
+    "C:\\Users\\USER\\OneDrive\\Desktop\\CSharpeproject\\MySchoolApp\\Console My Jotter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\CSharpeproject\\Console My Jotter\\Console My Jotter.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\CSharpeproject\\MySchoolApp\\Console My Jotter.csproj",
         "projectName": "Console My Jotter",
-        "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\CSharpeproject\\Console My Jotter\\Console My Jotter.csproj",
+        "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\CSharpeproject\\MySchoolApp\\Console My Jotter.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\CSharpeproject\\Console My Jotter\\obj\\",
+        "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\CSharpeproject\\MySchoolApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"

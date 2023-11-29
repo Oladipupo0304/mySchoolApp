@@ -1,23 +1,22 @@
-namespace Console_My_Jotter
+namespace MySchoolApp
 {
     
-    public class TeacherInfo : Student
+    public class TeacherInfo : User
     {
+        public string? ClassTeaching {get; set;}
+        public string? Subject {get; set;}
+        public string?  Gmail {get; set;}
 
-        public TeacherInfo(string name, string _class,string sex,DateTime dateOfBirth,string gmail)
-        : base( name, _class,sex,dateOfBirth,gmail)
-
+        public override void DisplayInformation()
         {
+            Console.WriteLine($"Name: {Name}");
+            Console.WriteLine($"Age: {Age}");
+            Console.WriteLine($"Sex: {Sex}");
+            Console.WriteLine($"ClassTeaching: {ClassTeaching}");
+            Console.WriteLine($"Subject: {Subject}");
+            Console.WriteLine($"Date of Birth: {dateOfBirth}");
+            // Console.WriteLine($"Date of Birth:{dateOfBirth.ToShortDateString()}");
+            Console.WriteLine($"gmail: {Gmail}");
         }
-
-         //i am  Override the abstract method 
-    public override void DisplayDetails()
-    {
-        Console.WriteLine($"Name: {Name}");
-        Console.WriteLine($"Class: {Class}");
-        Console.WriteLine($"Gender: {Gender}");
-        Console.WriteLine($"gmail: {gmail}");
-        Console.WriteLine($"Date of Birth: {DateOfBirth.ToShortDateString()}");
-    }
     }
 }
